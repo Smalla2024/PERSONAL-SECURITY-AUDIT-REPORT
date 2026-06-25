@@ -57,6 +57,6 @@ This week:
 This month:
   - Set up Bitwarden and migrate all saved passwords.
 
-==========================
+------------------------------------------------------------
  END OF REPORT
 
